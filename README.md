@@ -9,9 +9,11 @@
   <a href="https://github.com/Velytics/KernelOS/wiki/2.-Instalación">Instalación</a>
   •
   <a href="https://github.com/Velytics/KernelOS/wiki/1.-FAQ#contenido">FAQ</a>
+  •
+  <a href="#Discord">Comunidad</a>
 </p>
 
 ### ¿Cuáles son los beneficios en comparación con una versión de Windows regular?
 
 ## Discord
-¡Anímate y únete a nuestro [Discord](https://discord.gg/xx6S3g3HzE) si tienes alguna pregunta!
+¡Anímate y únete al [Discord](https://discord.gg/xx6S3g3HzE) si tienes alguna pregunta!
