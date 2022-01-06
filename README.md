@@ -15,14 +15,10 @@
 
 ### ¿Qué ofrece KernelOS?
 
-#### **Privacidad**
+Una modificación del sistema operativo de Windows que apunta a:
 
-KernelOS elimina todo tipo de seguimiento incorporado en Windows 10, tales como:
+- 
 
-- Microsoft Store
-- Cuenta de Microsoft vinculada
-- Xbox
-- Ubicación
 
 ## Discord
 ¡Anímate y únete al [Discord](https://discord.gg/xx6S3g3HzE) si tienes alguna pregunta!
