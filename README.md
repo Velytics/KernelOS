@@ -21,8 +21,8 @@ Una modificación del sistema operativo de Windows que apunta a:
 - Reducción de las latencias del sistema y aumento de los mínimos de FPS del 0,01 y 0,1%
 - En general, un entorno ágil, consistente y receptivo que recompensará tu configuración física al ser altamente optimizadas con cientos de ajustes de latencia, rendimiento, privacidad y calidad.
 
-## Aviso
-Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm).
-
 ## Discord
 ¡Anímate y únete al [Discord](https://discord.gg/xx6S3g3HzE) si tienes alguna pregunta!
+
+## Aviso
+Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm).
