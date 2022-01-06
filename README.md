@@ -15,5 +15,9 @@
 
 ### ¿Cuáles son los beneficios en comparación con una versión de Windows regular?
 
+#### **Private**
+
+KernelOS elimina todo tipo de seguimiento incorporado en Windows 10, tales como:
+
 ## Discord
 ¡Anímate y únete al [Discord](https://discord.gg/xx6S3g3HzE) si tienes alguna pregunta!
