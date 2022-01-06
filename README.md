@@ -9,3 +9,4 @@
   <a href="https://github.com/Velytics/KernelOS/wiki/2.-Instalación">Instalación</a>
   •
   <a href="https://github.com/Velytics/KernelOS/wiki/1.-FAQ#contenido">FAQ</a>
+</p>
