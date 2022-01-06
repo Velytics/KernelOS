@@ -13,11 +13,16 @@
   <a href="#Discord">Comunidad</a>
 </p>
 
-### ¿Cuáles son los beneficios en comparación con una versión de Windows regular?
+### ¿Qué ofrece KernelOS?
 
-#### **Private**
+#### **Privacidad**
 
 KernelOS elimina todo tipo de seguimiento incorporado en Windows 10, tales como:
+
+- Microsoft Store
+- Cuenta de Microsoft vinculada
+- Xbox
+- Ubicación
 
 ## Discord
 ¡Anímate y únete al [Discord](https://discord.gg/xx6S3g3HzE) si tienes alguna pregunta!
