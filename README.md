@@ -13,7 +13,7 @@
   <a href="#Discord">Comunidad</a>
 </p>
 
-### ¿Qué ofrece KernelOS?
+## ¿Qué ofrece KernelOS?
 
 Una modificación del sistema operativo de Windows que apunta a:
 
