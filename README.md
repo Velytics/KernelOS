@@ -21,7 +21,7 @@ Una modificación del sistema operativo de Windows que apunta a:
 
 - Menos telemetría en comparación con el sistema operativo Windows estándar
 - Reducción de las latencias del sistema y aumento de los mínimos de FPS del 0,01 y 0,1%
-- En general, un entorno ágil, consistente y receptivo que recompensará tu configuración física al ser altamente optimizadas con cientos de ajustes de latencia, rendimiento, privacidad y calidad.
+- En general, un entorno ágil, consistente y receptivo que recompensará tu configuración física al ser altamente optimizadas con cientos de ajustes de latencia, rendimiento, y calidad.
 
 ## Importante
 
