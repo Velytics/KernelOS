@@ -11,4 +11,4 @@
   <a href="https://github.com/Velytics/KernelOS/wiki/1.-FAQ#contenido">FAQ</a>
 </p>
 
-### What are the benefits compared to regular windows?
+### ¿Cuáles son los beneficios en comparación con una versión de Windows regular?
