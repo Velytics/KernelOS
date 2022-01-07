@@ -28,8 +28,12 @@ Una modificación del sistema operativo de Windows que apunta a:
 
 ### Descarga:
 
+- El enlace de descarga estará solamente disponible en el Discord de KernelOS. NO descargues la imagen de otras fuentes.
+- https://discord.io/KernelOS
+- Si existe algún tipo de error relacionado con el mismo, contacta a Kernel.
+
 ## Discord
-¡Anímate y únete al [Discord](https://discord.gg/xx6S3g3HzE) si tienes alguna pregunta!
+¡Anímate y únete al [Discord](https://discord.io/KernelOS) si tienes alguna pregunta!
 
 ## Aviso
 Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm).
