@@ -49,6 +49,7 @@ KernelOS está pre-ajustado. Se ha hecho casi todo lo posible para obtener el m�
 - Servicios minimizados
 - Drivers deshabilitados
 - Dispositivos deshabilitados
+- Optimizaciones de la configuración de arranque (BCDEDIT)
 
 ## Importante
 
