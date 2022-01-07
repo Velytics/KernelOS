@@ -31,7 +31,6 @@ KernelOS tiene como objetivo ser seguro sin dejar atrás el rendimiento y la fun
 
 - [Spectre](https://spectreattack.com/spectre.pdf)
 - [Meltdown](https://meltdownattack.com/meltdown.pdf)
-- [DMA Remapping](https://docs.microsoft.com/en-us/windows/security/information-protection/kernel-dma-protection-for-thunderbolt)
 - [Print Nightmare (P)](https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability)
 
 A continuación, se muestran las funciones que se eliminaron de KernelOS que tienen posibles problemas de seguridad:
