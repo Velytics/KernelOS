@@ -51,6 +51,9 @@ KernelOS está pre-ajustado. Se ha hecho casi todo lo posible para obtener el m�
 - Dispositivos deshabilitados
 - Optimizaciones de la configuración de arranque (BCDEDIT)
 
+## Discord
+¡Anímate y únete al [Discord](https://discord.io/KernelOS) si tienes alguna pregunta!
+
 ## Importante
 
 - KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar sus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. 
@@ -60,9 +63,6 @@ KernelOS está pre-ajustado. Se ha hecho casi todo lo posible para obtener el m�
 
 - El enlace de descarga estará solamente disponible en el Discord de KernelOS. NO descargues la imagen de otras fuentes.
 - Si existe algún tipo de error relacionado con el mismo, contacta a Kernel.
-
-## Discord
-¡Anímate y únete al [Discord](https://discord.io/KernelOS) si tienes alguna pregunta!
 
 ## Aviso
 Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm).
