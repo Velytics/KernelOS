@@ -23,7 +23,11 @@ Una modificación del sistema operativo de Windows que apunta a:
 
 #### **Seguro**
 
-KernelOS tiene como objetivo ser seguro sin necesidad de dejar atrás el rendimiento y la funcionalidad al deshabilitar funciones que pueden filtrar información o ser explotadas. Hay excepciones a esto, como Spectre y Meltdown. Estas mitigaciones están deshabilitadas para mejorar el rendimiento. Si una medida de mitigación de seguridad reduce el rendimiento, se desactivará. A continuación, se muestran algunas características/mitigaciones que se han modificado; si contienen una (P), son riesgos de seguridad que se han solucionado:
+KernelOS tiene como objetivo ser seguro sin dejar atrás el rendimiento, la funcionalidad y la compatibilidad al deshabilitar funciones que pueden filtrar información o ser explotadas. Hay excepciones a esto, como Spectre y Meltdown. Estas mitigaciones están deshabilitadas para mejorar el rendimiento. A continuación, mostraré cacterísticas y/o mitigaciones que se han modificado, las que contienen una (P) en su nombre, son riesgos de seguridad que se han solucionado:
+- [Spectre](https://spectreattack.com/spectre.pdf)
+- [Meltdown](https://meltdownattack.com/meltdown.pdf)
+- [DMA Remapping](https://docs.microsoft.com/en-us/windows/security/information-protection/kernel-dma-protection-for-thunderbolt)
+- [Print Nightmare (P)](https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability)
 
 ## Importante
 
