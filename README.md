@@ -9,7 +9,7 @@
   <a href="https://github.com/Velytics/KernelOS/wiki/2.-Pre-Instalación">Pre Instalación</a>
   •
   <a href="https://github.com/Velytics/KernelOS/wiki/3.-Instalación">Instalación</a>
-  
+  •
   <a href="https://github.com/Velytics/KernelOS/wiki/4.-Post-Instalación">Post Instalación</a>
   •
   <a href="https://github.com/Velytics/KernelOS/wiki/1.-FAQ#contenido">FAQ</a>
