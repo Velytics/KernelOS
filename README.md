@@ -40,6 +40,13 @@ KernelOS está altamente strippeado, las aplicaciones preinstaladas (UWP) y otro
 
 #### **Performante**
 
+KernelOS está pre-ajustado. Se ha hecho casi todo lo posible para obtener el máximo rendimiento, minimizar las latencias y el retraso de entrada. Se hizo lo siguiente para hacer esto posible:
+
+- Planes de energía personalizados
+- Servicios minimizados
+- Drivers deshabilitados
+- Dispositivos deshabilitados
+
 ## Importante
 
 - KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar sus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. 
