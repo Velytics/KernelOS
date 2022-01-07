@@ -34,6 +34,12 @@ A continuación, se muestran las funciones que se eliminaron de KernelOS que tie
 
 - [Remote Desktop](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Windows+Remote+Desktop)
 
+#### **Debloated**
+
+KernelOS está altamente strippeado, las aplicaciones preinstaladas (UWP) y otros componentes se eliminan. Aunque esto puede romper cierta compatibilidad, reduce significativamente el tamaño de la instalación y la ISO. Se eliminan funcionalidades como Windows Defender. Esta modificación se centra solamente en los juegos, pero la mayoría de las aplicaciones laborales funcionan.
+
+#### **Performante**
+
 ## Importante
 
 - KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar sus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. 
