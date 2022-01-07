@@ -29,7 +29,6 @@ Una modificación del sistema operativo de Windows que apunta a:
 ### Descarga:
 
 - El enlace de descarga estará solamente disponible en el Discord de KernelOS. NO descargues la imagen de otras fuentes.
-- https://discord.io/KernelOS
 - Si existe algún tipo de error relacionado con el mismo, contacta a Kernel.
 
 ## Discord
