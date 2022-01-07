@@ -23,7 +23,7 @@ Una modificación del sistema operativo de Windows que apunta a:
 
 ## Importante
 
-- KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar sus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. Este sistema operativo no está diseñado ni orientado para la métrica de evaluación comparativa más inútil, FPS promedio. Se trata principalmente de la capacidad de respuesta y los mínimos más altos de 0.01% y 0.1%, la métrica de fps real y la única importante.
+- KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar sus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. 
 - La instalación posterior está pensada y dedicada para una configuración única, no cambies nada importante después de la instalación posterior, como volver a instalar los drivers de la GPU, etc. Cuanto más cambie, más ajustes revertirás y empeorarás tu experiencia. Hay un orden estricto que seguir durante la configuración. es importante que leas [Pre Instalación]() antes de instalar KernelOS.
 
 ### Descarga:
