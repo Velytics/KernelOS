@@ -21,6 +21,10 @@ Una modificación del sistema operativo de Windows que apunta a:
 - Reducción de las latencias del sistema y aumento de los mínimos de FPS del 0.01% y 0.1%
 - En general, un entorno ágil, consistente y receptivo que recompensará tu configuración física al ser altamente optimizadas con cientos de ajustes de latencia, rendimiento y calidad.
 
+#### **Seguro**
+
+Atlas tiene como objetivo ser lo más seguro posible sin perder rendimiento al deshabilitar funciones que pueden filtrar información o ser explotadas. Hay excepciones a esto, como Spectre y Meltdown. Estas mitigaciones están deshabilitadas para mejorar el rendimiento. Si una medida de mitigación de seguridad reduce el rendimiento, se desactivará. A continuación, se muestran algunas características / mitigaciones que se han modificado; si contienen una (P), son riesgos de seguridad que se han solucionado:
+
 ## Importante
 
 - KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar sus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. 
