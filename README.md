@@ -40,7 +40,7 @@ KernelOS está altamente strippeado, las aplicaciones preinstaladas (UWP) y otro
 
 #### **Performante**
 
-KernelOS está pre-ajustado. Se ha hecho casi todo lo posible para obtener el máximo rendimiento, minimizar las latencias y el retraso de entrada. Se hizo lo siguiente para hacer esto posible:
+KernelOS está pre-ajustado. Se ha hecho casi todo lo posible para obtener el máximo rendimiento, minimizar las latencias del sistema y el retraso de entrada. Se hizo lo siguiente para hacer esto posible:
 
 - Planes de energía personalizados
 - Servicios minimizados
