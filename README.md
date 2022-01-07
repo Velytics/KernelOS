@@ -23,7 +23,7 @@ Una modificación del sistema operativo de Windows que apunta a:
 
 #### **Seguro**
 
-KernelOS tiene como objetivo ser lo más seguro posible sin perder rendimiento al deshabilitar funciones que pueden filtrar información o ser explotadas. Hay excepciones a esto, como Spectre y Meltdown. Estas mitigaciones están deshabilitadas para mejorar el rendimiento. Si una medida de mitigación de seguridad reduce el rendimiento, se desactivará. A continuación, se muestran algunas características / mitigaciones que se han modificado; si contienen una (P), son riesgos de seguridad que se han solucionado:
+KernelOS tiene como objetivo ser seguro sin necesidad de dejar atrás el rendimiento y la funcionalidad al deshabilitar funciones que pueden filtrar información o ser explotadas. Hay excepciones a esto, como Spectre y Meltdown. Estas mitigaciones están deshabilitadas para mejorar el rendimiento. Si una medida de mitigación de seguridad reduce el rendimiento, se desactivará. A continuación, se muestran algunas características/mitigaciones que se han modificado; si contienen una (P), son riesgos de seguridad que se han solucionado:
 
 ## Importante
 
