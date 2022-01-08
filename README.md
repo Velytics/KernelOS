@@ -57,7 +57,7 @@ KernelOS está pre-ajustado. Se ha hecho casi todo lo posible para obtener el m�
 ## Importante
 
 - KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar sus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. 
-- La instalación posterior está pensada y dedicada para una configuración única, no cambies nada importante después de la instalación posterior, como volver a instalar los drivers de la GPU, etc. Cuanto más cambies, más ajustes revertirás y empeorarás tu experiencia. Hay un orden estricto que seguir durante la configuración. es importante que leas [Pre Instalación]() antes de instalar KernelOS.
+- La instalación posterior está pensada y dedicada para una configuración única, no cambies nada importante después de la instalación posterior, como volver a instalar los drivers de la GPU, etc. Cuanto más cambies, más ajustes revertirás y empeorarás tu experiencia. Hay un orden estricto que seguir durante la configuración. es importante que leas [Pre Instalación](https://github.com/Velytics/KernelOS/wiki/2.-Pre-Instalación) antes de instalar KernelOS.
 - Esta guía es un proyecto personal que he escrito, lo que significa que no ha sido apoyada por terceros.
 
 ### Descarga:
