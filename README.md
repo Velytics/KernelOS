@@ -15,7 +15,7 @@
 
 ## Importante
 
-- KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar sus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. 
+- KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar tus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. 
 - Esta guía es un proyecto personal que he escrito, lo que significa que no ha sido apoyada por terceros.
 - No asumo ninguna responsabilidad por nada de lo que suceda debido a esta guía, esta guía está escrita línea-por-línea correctamente para su uso correspondiente, por lo que nadie es responsable si algo se rompe en el sistema operativo, como el audio o alguna funcionalidad, o si tú o cualquier otra persona rompe su hardware, periféricos o la instalación del Windows más tarde o cualquier otra cosa por seguir está guía incorrectamente.
 
