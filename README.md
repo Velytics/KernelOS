@@ -14,7 +14,7 @@
 </p>
 
 ## Importante
-KernelOS esta configurado y ajustado cuidadosamente para lograr tal estabilidad, al mismo tiempo mantener un rendimiento tan excelente y claro, sin dejar de lado la compatibilidad. 
+KernelOS está configurado y ajustado cuidadosamente para lograr tal estabilidad, al mismo tiempo mantener un rendimiento tan excelente y claro, sin dejar de lado la compatibilidad. 
 
 - Esta guía es un proyecto personal que he escrito, lo que significa que no ha sido apoyada por terceros.
 - No asumo ninguna responsabilidad por nada de lo que suceda debido a esta guía, esta guía está escrita línea-por-línea correctamente para su uso correspondiente, por lo que nadie es responsable si algo se rompe en el sistema operativo, como el audio o alguna funcionalidad, o si tú o cualquier otra persona rompe su hardware, periféricos o la instalación del Windows más tarde o cualquier otra cosa por seguir está guía incorrectamente.
