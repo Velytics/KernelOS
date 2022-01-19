@@ -13,6 +13,8 @@
   <a href="#Discord">Comunidad</a>
 </p>
 
+## Guía posterior a la instalación
+
 ## Importante
 
 - KernelOS no es la instalación de Windows promedio. Necesitas usar tu cerebro y sentido común para completar la configuración correctamente, especialmente si tienes una iGPU o deseas instalar tus propios drivers. Si no te sientes cómodo y seguro con la configuración adecuada del sistema operativo, NO instales KernelOS. 
