@@ -25,6 +25,6 @@ cls
 bcdboot %installdir%:\Windows
 bcdedit /timeout 0
 cls
-echo reinicia para acceder a KernelOS. Bootloader script hecho por @Velytics.
+echo reinicia para acceder a KernelOS. Bootloader script hecho por @Velytics / https://twitter.com/Velytics
 pause
 exit /b
