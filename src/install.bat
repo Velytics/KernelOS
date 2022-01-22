@@ -1,6 +1,6 @@
 @echo off
 :seleccionarunidad
-set /p installdir="escribe la letra de la unidad que creaste para instalar Windows en ella: "
+set /p installdir="Escribe la letra de la unidad que creaste para instalar KernelOS en ella: "
 
 set installdir=%installdir: =%
 if "%installdir%" equ " =" goto inválido
