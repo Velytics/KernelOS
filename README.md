@@ -1,4 +1,5 @@
 <h1 align="center">
+<img src="https://github.com/Velytics/KernelOS/blob/main/img/Wallpaper.jpg" alt="Banner"</img>
   <br>
   KernelOS
   <br>
