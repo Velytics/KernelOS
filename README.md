@@ -35,4 +35,4 @@ Obtendrás mejores FPS, marcos de tiempo más bajos y estables, mejor entrada y 
 ¡Anímate y únete al [Discord](https://discord.io/KernelOS) si tienes alguna pregunta!
 
 ## Aviso
-Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm).
+Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm)
