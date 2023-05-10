@@ -32,7 +32,7 @@ Obtendrás mejores FPS, marcos de tiempo más bajos y estables, mejor entrada y 
 - Si existe algún tipo de error relacionado con el mismo, contáctanos!
 
 ## Discord
-¡Anímate y únete al [Discord]([http://dsc.gg/kernelos]) si tienes alguna pregunta!
+¡Anímate y únete al [Discord](http://dsc.gg/kernelos) si tienes alguna pregunta!
 
 ## Aviso
 Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_Spanish.htm)
